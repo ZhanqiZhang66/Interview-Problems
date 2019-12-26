@@ -1,4 +1,4 @@
-# Minimum Size Subarray Sum
+# 406 Minimum Size Subarray Sum 
 ```python
  def minimumSize(self, nums, s):
         if nums is None or len(nums) == 0:
