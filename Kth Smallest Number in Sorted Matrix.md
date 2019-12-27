@@ -1,4 +1,4 @@
-# 401 kth-smallest-number-in-sorted-matrix
+# 401 Kth Smallest Number in Sorted Matrix
 ```python
 import heapq
 
