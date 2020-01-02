@@ -1,4 +1,4 @@
-#Implement Trie (Prefix Tree)
+# Implement Trie (Prefix Tree)
 ```python
 class TrieNode:
     def __init__(self):
