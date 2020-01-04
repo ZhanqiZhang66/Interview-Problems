@@ -1,4 +1,4 @@
-#Connecting Graph 2 (Union Find)
+# Connecting Graph 2 (Union Find)
 ```python
 class ConnectingGraph2:
     """
